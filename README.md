@@ -8,9 +8,10 @@ This repository only has the textures of the `Some More Block` mod for all avail
 | 1.21.0            | New Tuff palette to match with new vanilla Tuff Blocks and merged experimental blocks. |      1.0.0     |
 | 1.21.4            | New Resin and Pale Oak variations.                                                     |      1.0.0     |
 
-### Wrong page? Download the mod here!
-  - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/some-more-blocks)
-  - [Modrinth](https://modrinth.com/mod/some-more-blocks)
+### Wrong page?
+  - [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/some-more-blocks)
+  - [Modrinth Page](https://modrinth.com/mod/some-more-blocks)
+  - [Mod Repository](https://github.com/Seface-Studios/some-more-blocks)
 
 ---
 <div>
