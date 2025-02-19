@@ -4,8 +4,9 @@ This repository only has the textures of the `Some More Block` mod for all avail
 
 | Minecraft Version |                                       Description                                      | Latest Version |
 |:-----------------:|:--------------------------------------------------------------------------------------:|----------------|
+| 1.20.1            | The original and first blocks and items textures. (Backported from 1.20.4)             |      1.0.0     |
 | 1.20.4            | The original and first blocks and items textures.                                      |      1.0.0     |
-| 1.21.0            | New Tuff palette to match with new vanilla Tuff Blocks and merged experimental blocks. |      1.0.0     |
+| 1.21-1.21-1       | New Tuff palette to match with new vanilla Tuff Blocks and merged experimental blocks. |      1.0.0     |
 | 1.21.4            | New Resin and Pale Oak variations.                                                     |      1.0.0     |
 
 ### Wrong page?
